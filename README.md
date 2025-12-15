@@ -89,12 +89,11 @@ _Digital Craftsman (Developer / Programmer)_
   <img src="https://img.shields.io/badge/New-Blog-8be9fd?style=for-the-badge&logo=dev.to&logoColor=white" alt="New Blog" />
 </p>
 
-<!-- 🏆 GitHub Trophies Section (100% working, auto-update) -->
+<!-- 🏆 GitHub Trophies Section (Vaunt-free, Ultra Flashy) -->
 <h2 align="center">🏆 GitHub Trophies & Achievements 🏆</h2>
 
 <p align="center">
   <a href="https://github.com/imcoolbooy" target="_blank">
-    <!-- GitHub Profile Trophies (auto-update) -->
     <img src="https://github-profile-trophy.vercel.app/?username=imcoolbooy&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai"
          alt="GitHub Trophies"
          style="max-width: 100%; border-radius: 10px;"/>
@@ -102,16 +101,17 @@ _Digital Craftsman (Developer / Programmer)_
 </p>
 
 <p align="center">
-  <!-- Shields.io badges for auto-updating stats -->
-  <img src="https://img.shields.io/github/languages/top/imcoolbooy?style=for-the-badge&logo=python&logoColor=white" alt="Top Language"/>
-  <img src="https://img.shields.io/github/languages/top/imcoolbooy?style=for-the-badge&logo=react&logoColor=white" alt="Top Framework"/>
-  <img src="https://img.shields.io/github/last-commit/imcoolbooy?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/repos/imcoolbooy?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos"/>
+  <img src="https://img.shields.io/badge/Top%20Language-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white"
+       alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Top%20Framework-React-61dafb?style=for-the-badge&logo=react&logoColor=white"
+       alt="Top Framework"/>
+  <img src="https://img.shields.io/badge/Top%20Tool-Git-orange?style=for-the-badge&logo=git&logoColor=white"
+       alt="Top Tool"/>
   <img src="https://img.shields.io/github/stars/imcoolbooy?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/>
 </p>
 
 <p align="center" style="font-size:0.9em; color:#f8f8f2;">
-All trophies and badges auto-update based on my GitHub profile!
+All trophies auto-update based on my GitHub stats!
 </p>
 
 ### Languages skills:
