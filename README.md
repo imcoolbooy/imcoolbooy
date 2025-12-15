@@ -38,6 +38,18 @@ _Digital Craftsman (Developer / Programmer)_
        style="padding:10px; border:2px solid #00FF00; border-radius:5px; background-color:#000000; filter: drop-shadow(0 0 10px #00FF00);"/>
 </p>
 
+---
+<!--Languages and Tools Section-->
+<h2 align="center">💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 & 𝗟𝗔𝗧𝗘𝗦𝗧 𝗕𝗟𝗢𝗚𝗦 💻</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills2.gif">
+  <img align="left" alt="GIF description" src="./logo.gif">
+</picture>
+<br />
+
+---
+
 ### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
