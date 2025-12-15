@@ -277,6 +277,9 @@ _Digital Craftsman (Developer / Programmer)_
 <img src="./github.png" width=50 height=50 alt="imcoolbooy" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.linkedin.com/in/github-com-069399394" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
 ### 📌️ License
 
