@@ -43,7 +43,7 @@ _Digital Craftsman (Developer / Programmer)_
 <h2 align="center">💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 & 𝗟𝗔𝗧𝗘𝗦𝗧 𝗕𝗟𝗢𝗚𝗦 💻</h2>
 
 <img align="left" src="./Skills2.gif" width="45%" />
-<img align="right" src="./logo.gif" width="45%" />
+<img align="right" src="./Skills1.gif" width="45%" />
 <br clear="both" />
 
 ### Languages skills:
