@@ -23,8 +23,7 @@ _Digital Craftsman (Developer / Programmer)_
 
 I am a Full Stack Developer and Machine Learning enthusiast with a passion for building innovative scalable and intelligent solutions i thrive on tackling complex problems creating seamless user experiences and transforming ideas into real world applications.
 
-#🛠️ Skills ⬇️⬇️⬇️
-
+###🛠️ Skills
 ### Languages
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
