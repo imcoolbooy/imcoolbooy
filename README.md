@@ -66,17 +66,17 @@ _Digital Craftsman (Developer / Programmer)_
 <ul align="left">
   <li>
     🧠 <b>Machine Learning & Artificial Intelligence</b><br>
-    <progress value="75" max="100"></progress> 75%
+    <progress value="90" max="100"></progress> 75%
   </li>
   <br>
   <li>
     ⚛️ <b>Advanced Frontend Architecture & State Management</b><br>
-    <progress value="70" max="100"></progress> 70%
+    <progress value="80" max="100"></progress> 70%
   </li>
   <br>
   <li>
     ☁️ <b>Cloud Computing & Scalable Deployments</b><br>
-    <progress value="60" max="100"></progress> 60%
+    <progress value="85" max="100"></progress> 60%
   </li>
 </ul>
 
