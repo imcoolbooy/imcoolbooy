@@ -263,6 +263,16 @@ _Digital Craftsman (Developer / Programmer)_
 
 ![Coolbooy's Logo](https://i.ibb.co/fVrBkQWh/file-0000000005b472079bd9b8102c34517f.png)
 
-📌️ License
+<!--Contact Section-->
+
+<a href="https://t.me/imcoolbooy" target="_blank">
+  <img src="./images.jpeg" width="50" height="50" alt="Telegram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.facebook.com/coolbooy550" target="_blank">
+  <img src="./facebook.jpg" width="50" height="50" alt="Facebook" style="margin-bottom: 5px;" />
+</a>
+
+### 📌️ License
 
 • MIT License © 2025 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪
