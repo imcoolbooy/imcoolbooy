@@ -39,7 +39,6 @@ _Digital Craftsman (Developer / Programmer)_
 </p>
 
 ---
-<!--Languages and Tools Section-->
 <h2 align="center">💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 & 𝗟𝗔𝗧𝗘𝗦𝗧 𝗕𝗟𝗢𝗚𝗦 💻</h2>
 
 <img align="left" src="./Skills2.gif" width="45%" />
