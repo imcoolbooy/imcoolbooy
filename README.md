@@ -130,6 +130,12 @@ _Digital Craftsman (Developer / Programmer)_
   </tr>
 </table>
 
+<!--Contribution Graph-->
+<h2 align="center">📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imcoolbooy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
 ### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
