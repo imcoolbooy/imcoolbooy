@@ -66,16 +66,19 @@ _Digital Craftsman (Developer / Programmer)_
 <p align="left">
   🧠 <b>Machine Learning & Artificial Intelligence</b><br>
   <img src="https://img.shields.io/badge/ML-AI-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="ML-AI" />
+  <img src="https://img.shields.io/badge/Progress-████████▌-----90%25-brightgreen?style=for-the-badge" alt="ML Progress" />
 </p>
 
 <p align="left">
   ⚛️ <b>Advanced Frontend Architecture & State Management</b><br>
   <img src="https://img.shields.io/badge/Frontend-React-85%25-yellow?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Progress-████████▍-----85%25-yellow?style=for-the-badge" alt="Frontend Progress" />
 </p>
 
 <p align="left">
   ☁️ <b>Cloud Computing & Scalable Deployments</b><br>
-  <img src="https://img.shields.io/badge/Cloud-AWS-80%25-blue?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-80%25-blue?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Progress-███████▌-----80%25-blue?style=for-the-badge" alt="Cloud Progress" />
 </p>
 
 ### Languages skills:
