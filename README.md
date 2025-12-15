@@ -111,7 +111,7 @@ _Digital Craftsman (Developer / Programmer)_
 </p>
 
 <p align="center" style="font-size:0.9em; color:#f8f8f2;">
-All trophies auto-update based on my GitHub stats!
+🔰💻 All trophies auto update based on my GitHub stats.! ❣️🇱🇰
 </p>
 
 ### Languages skills:
@@ -238,10 +238,6 @@ All trophies auto-update based on my GitHub stats!
 - **🇯🇵 Language Learner**
 
 ---
-
-## 💬 Feel free to reach out...!
-
-You can contact me at [telegram](https://t.me/IMCOOLBOOY551). I'm always open to discussing new projects, ideas, or just chatting about technology.🖥️
 
 ![Coolbooy's Logo](https://i.ibb.co/fVrBkQWh/file-0000000005b472079bd9b8102c34517f.png)
 
