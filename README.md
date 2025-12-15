@@ -61,6 +61,25 @@ _Digital Craftsman (Developer / Programmer)_
   <img src="https://skillicons.dev/icons?i=git,github,linux,aws,azure,docker" />
 </p>
 
+<h3 align="left">🚀 Currently Learning & Improving</h3>
+
+<ul align="left">
+  <li>
+    🧠 <b>Machine Learning & Artificial Intelligence</b><br>
+    <progress value="75" max="100"></progress> 75%
+  </li>
+  <br>
+  <li>
+    ⚛️ <b>Advanced Frontend Architecture & State Management</b><br>
+    <progress value="70" max="100"></progress> 70%
+  </li>
+  <br>
+  <li>
+    ☁️ <b>Cloud Computing & Scalable Deployments</b><br>
+    <progress value="60" max="100"></progress> 60%
+  </li>
+</ul>
+
 ### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
