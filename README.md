@@ -9,7 +9,16 @@
 
 </p>
 
-# 🤝 HELLO. IM COOL BOOY 🥰🥰🥰
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪
+_Digital Craftsman (Developer / Programmer)_
+<br />
 
 I'm a passionate software developer specializing in web development and cloud computing.
 
