@@ -23,7 +23,7 @@ _Digital Craftsman (Developer / Programmer)_
 
 I am a Full Stack Developer and Machine Learning enthusiast with a passion for building innovative scalable and intelligent solutions i thrive on tackling complex problems creating seamless user experiences and transforming ideas into real world applications.
 
-### Languages skills
+### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
@@ -49,7 +49,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-### Frameworks ⬇️⬇️⬇️
+### Frameworks:
 
 - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
@@ -61,7 +61,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 - ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
-### Tools ⬇️⬇️⬇️
+### Tools:
 
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
@@ -71,7 +71,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 
-### Databases ⬇️⬇️⬇️
+### Databases:
 
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
@@ -81,7 +81,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 - ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
-### Others ⬇️⬇️⬇️
+### Others:
 
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
@@ -89,7 +89,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 ---
 
-## 📈 Current Learning ⬇️⬇️⬇️
+## 📈 Current Learning:
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=google)
 
@@ -101,31 +101,31 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 ---
 
-## 🌟 Fun Facts ⬇️⬇️⬇️
+## 🌟 Fun Facts:
 
-- I love coffee! ☕️
+- I love coffee.! ☕️
 
 - I enjoy hiking on weekends 🥾
 
-- I’m an avid reader, currently exploring fantasy novels 📚
+- I’m an avid reader currently exploring fantasy novels 📚
 
-- I have a collection of over **100** coding books! 📖
+- I have a collection of over **100** coding books.! 📖
 
 - My favorite programming language is **Python** due to its simplicity and versatility. 🐍
 
-- I have built **5** personal projects this year alone! 🚀
+- I have built **5** personal projects this year alone.! 🚀
 
 - I enjoy solving **puzzles** and **brain teasers** in my free time. 🧩
 
-- I love to travel and have visited **10** countries! ✈️
+- I love to travel and have visited **10** countries.! ✈️
 
-- My favorite cuisine is **Italian**, especially pasta! 🍝
+- My favorite cuisine is **Italian**, especially pasta.! 🍝
 
-- I'm currently learning **Japanese** as my new language adventure! 🇯🇵
+- I'm currently learning **Japanese** as my new language adventure.! 🇯🇵
 
 ---
 
-## 🎉 Fun Fact Icons ⬇️⬇️⬇️
+## 🎉 Fun Fact Icons:
 
 - **☕️ Coffee Lover**
 
@@ -149,7 +149,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 
 ---
 
-## 💬 Feel free to reach out...! ⬇️⬇️⬇️
+## 💬 Feel free to reach out...!
 
 You can contact me at [telegram](https://t.me/IMCOOLBOOY551). I'm always open to discussing new projects, ideas, or just chatting about technology.🖥️
 
