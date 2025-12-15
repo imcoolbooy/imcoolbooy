@@ -27,7 +27,7 @@ I am a Full Stack Developer and Machine Learning enthusiast with a passion for b
 - 🧠 Constantly Exploring New Coding Techniques
 - 💬 Open to Questions & Suggestions
 - 🎓 Student Developer
-- 📧 **Telegram:** [𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘](https://t.me/imcoolbooy)
+-![Telegram Logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg) [𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘](https://t.me/imcoolbooy)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imcoolbooy&label=Profile%20Views&color=00FF00&style=for-the-badge&logo=github" 
