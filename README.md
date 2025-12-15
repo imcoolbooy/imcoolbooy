@@ -17,13 +17,13 @@
 <!--Header Name-->
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪
+
 _Digital Craftsman (Developer / Programmer)_
 <br />
 
-I am a Full Stack Developer and Machine Learning enthusiast with a passion for building innovative, scalable, and intelligent solutions.
-I thrive on tackling complex problems, creating seamless user experiences, and transforming ideas into real-world applications.
+I am a Full Stack Developer and Machine Learning enthusiast with a passion for building innovative scalable and intelligent solutions i thrive on tackling complex problems creating seamless user experiences and transforming ideas into real world applications.
 
-## 🛠️ Skills ⬇️⬇️⬇️
+#🛠️ Skills ⬇️⬇️⬇️
 
 ### Languages
 
