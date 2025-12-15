@@ -43,6 +43,12 @@ _Digital Craftsman (Developer / Programmer)_
        style="padding:10px; border:2px solid #00FF00; border-radius:5px; background-color:#000000; filter: drop-shadow(0 0 10px #00FF00);"/>
 </p>
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 ---
 <h2 align="center">💻 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 & 𝗟𝗔𝗧𝗘𝗦𝗧 𝗕𝗟𝗢𝗚𝗦 💻</h2>
 
@@ -66,6 +72,12 @@ _Digital Craftsman (Developer / Programmer)_
   <img src="https://skillicons.dev/icons?i=git,github,linux,aws,azure,docker" />
 </p>
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 ### 🚀 Currently Learning & Improving
 
 - 🧠 **Machine Learning & Artificial Intelligence**  
@@ -76,6 +88,12 @@ _Digital Craftsman (Developer / Programmer)_
 
 - ☁️ **Cloud Computing & Scalable Deployments**  
   ![Cloud](https://img.shields.io/badge/Progress-80%25-blue)
+
+  <!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 ### 📝 Latest Blog Posts
 
@@ -93,6 +111,12 @@ _Digital Craftsman (Developer / Programmer)_
   🔥 <a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5" target="_blank" style="text-decoration:none; color:#8be9fd;"><b>Qodo-Embed-1:</b> I Tried Out Qodo's New Embed Model 🤯</a>
   <img src="https://img.shields.io/badge/New-Blog-8be9fd?style=for-the-badge&logo=dev.to&logoColor=white" alt="New Blog" />
 </p>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 <!-- 🏆 GitHub Trophies Section (Vaunt-free, Ultra Flashy) -->
 <h2 align="center">🏆 GitHub Trophies & Achievements 🏆</h2>
@@ -119,6 +143,12 @@ _Digital Craftsman (Developer / Programmer)_
 🔰💻 All trophies auto update based on my GitHub stats.! ❣️🇱🇰
 </p>
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 <h2 align="center">📊 ɢɪᴛʜᴜʙ 📊</h2>
 <table width="100%">
   <tr>
@@ -135,11 +165,21 @@ _Digital Craftsman (Developer / Programmer)_
   </tr>
 </table>
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 <!--Contribution Graph-->
 <h2 align="center">📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=imcoolbooy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 ### Languages skills:
 
@@ -167,6 +207,12 @@ _Digital Craftsman (Developer / Programmer)_
 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 ### Frameworks:
 
 - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -179,6 +225,11 @@ _Digital Craftsman (Developer / Programmer)_
 
 - ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 ### Tools:
 
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -188,6 +239,11 @@ _Digital Craftsman (Developer / Programmer)_
 - ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 ### Databases:
 
@@ -199,6 +255,12 @@ _Digital Craftsman (Developer / Programmer)_
 
 - ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 ### Others:
 
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
@@ -206,6 +268,12 @@ _Digital Craftsman (Developer / Programmer)_
 - ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ---
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 ## 📈 Current Learning:
 
@@ -217,6 +285,12 @@ _Digital Craftsman (Developer / Programmer)_
 
 - ![Data Science](https://img.shields.io/badge/-Data%20Science-black?style=flat-square&logo=r-project)
 ---
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 ## 🌟 Fun Facts:
 
@@ -242,6 +316,12 @@ _Digital Craftsman (Developer / Programmer)_
 
 ---
 
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 ## 🎉 Fun Fact Icons:
 
 - **☕️ Coffee Lover**
@@ -264,7 +344,10 @@ _Digital Craftsman (Developer / Programmer)_
 
 - **🇯🇵 Language Learner**
 
----
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 ![Coolbooy's Logo](https://i.ibb.co/fVrBkQWh/file-0000000005b472079bd9b8102c34517f.png)
 
