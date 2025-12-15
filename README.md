@@ -48,8 +48,6 @@ _Digital Craftsman (Developer / Programmer)_
 </picture>
 <br />
 
----
-
 ### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
