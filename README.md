@@ -61,24 +61,22 @@ _Digital Craftsman (Developer / Programmer)_
   <img src="https://skillicons.dev/icons?i=git,github,linux,aws,azure,docker" />
 </p>
 
-<h3 align="left">🚀 Currently Learning & Improving</h3>
+### 🚀 Currently Learning & Improving
 
-<ul align="left">
-  <li>
-    🧠 <b>Machine Learning & Artificial Intelligence</b><br>
-    <progress value="90" max="100"></progress> 75%
-  </li>
-  <br>
-  <li>
-    ⚛️ <b>Advanced Frontend Architecture & State Management</b><br>
-    <progress value="80" max="100"></progress> 70%
-  </li>
-  <br>
-  <li>
-    ☁️ <b>Cloud Computing & Scalable Deployments</b><br>
-    <progress value="85" max="100"></progress> 60%
-  </li>
-</ul>
+<p align="left">
+  🧠 <b>Machine Learning & Artificial Intelligence</b><br>
+  <img src="https://img.shields.io/badge/ML-AI-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white&animation=spin" alt="ML-AI" />
+</p>
+
+<p align="left">
+  ⚛️ <b>Advanced Frontend Architecture & State Management</b><br>
+  <img src="https://img.shields.io/badge/Frontend-React-85%25-yellow?style=for-the-badge&logo=react&logoColor=white&animation=spin" alt="Frontend" />
+</p>
+
+<p align="left">
+  ☁️ <b>Cloud Computing & Scalable Deployments</b><br>
+  <img src="https://img.shields.io/badge/Cloud-AWS_Azure-80%25-blue?style=for-the-badge&logo=aws&logoColor=white&animation=spin" alt="Cloud" />
+</p>
 
 ### Languages skills:
 
