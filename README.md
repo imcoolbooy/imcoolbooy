@@ -14,7 +14,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰𓆪
 
 _Digital Craftsman (Developer / Programmer)_
 <br />
@@ -22,13 +22,13 @@ _Digital Craftsman (Developer / Programmer)_
 <!--Start Intro-->
 <p align="left"> I am a Full Stack Developer and Machine Learning enthusiast with a passion for building innovative scalable and intelligent solutions i thrive on tackling complex problems creating seamless user experiences and transforming ideas into real world applications.</p>
 
-- 💻 **𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪**
+- 💻 **𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰𓆪**
 - 🤝 Collaborating with [𝐂𝐡𝐚𝐭 𝑮𝑹𝑶𝑼𝑷 ™  🇱🇰🖥️](https://t.me/COOLBOOY550)
 - 🎥 Tutorial Channel: [𝐏𝐑𝐎𝐆𝐑𝐀𝐌 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ™ 🇱🇰 🖥️](https://t.me/IMCOOLBOOY551)
 - 🧠 Constantly Exploring New Coding Techniques
 - 💬 Open to Questions & Suggestions
 - 🎓 Student Developer
-- 📩 **Telegram:** [𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘](https://t.me/imcoolbooy)
+- 📩 **Telegram:** [𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘𓆪](https://t.me/imcoolbooy)
 <!--End Intro-->
 
 <!-- Style Profile -->
