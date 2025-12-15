@@ -89,6 +89,30 @@ _Digital Craftsman (Developer / Programmer)_
   <img src="https://img.shields.io/badge/New-Blog-8be9fd?style=for-the-badge&logo=dev.to&logoColor=white" alt="New Blog" />
 </p>
 
+<!-- 🏆 GitHub Trophies Section (Vaunt-free, Ultra Flashy) -->
+<h2 align="center">🏆 GitHub Trophies & Achievements 🏆</h2>
+
+<p align="center">
+  <a href="https://github.com/imcoolbooy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=imcoolbooy&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai"
+         alt="GitHub Trophies"
+         style="max-width: 100%; border-radius: 10px;"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Language-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white"
+       alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Top%20Framework-React-61dafb?style=for-the-badge&logo=react&logoColor=white"
+       alt="Top Framework"/>
+  <img src="https://img.shields.io/badge/Top%20Tool-Git-orange?style=for-the-badge&logo=git&logoColor=white"
+       alt="Top Tool"/>
+</p>
+
+<p align="center" style="font-size:0.9em; color:#f8f8f2;">
+All trophies auto-update based on my GitHub stats.!
+</p>
+
 ### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -164,7 +188,6 @@ _Digital Craftsman (Developer / Programmer)_
 - ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-black?style=flat-square&logo=aws)
 
 - ![Data Science](https://img.shields.io/badge/-Data%20Science-black?style=flat-square&logo=r-project)
-
 ---
 
 ## 🌟 Fun Facts:
