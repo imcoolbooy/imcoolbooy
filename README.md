@@ -3,7 +3,7 @@
 ![Coolbooy's Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
 
 <p align="center">
-  <a href="https://www.facebook.com/coolbooy550"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
+  <a href="https://www.facebook.com/coolbooy550"?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
 	<a href="https://t.me/IMCOOLBOOY551"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 	<a href="https://t.me/COOLBOOY550"><img title="Telegram Group" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
