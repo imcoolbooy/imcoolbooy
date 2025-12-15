@@ -63,22 +63,30 @@ _Digital Craftsman (Developer / Programmer)_
 
 ### 🚀 Currently Learning & Improving
 
+- 🧠 **Machine Learning & Artificial Intelligence**  
+  ![ML](https://img.shields.io/badge/Progress-90%25-brightgreen)
+
+- ⚛️ **Advanced Frontend Architecture & State Management**  
+  ![Frontend](https://img.shields.io/badge/Progress-85%25-yellow)
+
+- ☁️ **Cloud Computing & Scalable Deployments**  
+  ![Cloud](https://img.shields.io/badge/Progress-80%25-blue)
+
+### 📝 Latest Blog Posts
+
 <p align="left">
-  🧠 <b>Machine Learning & Artificial Intelligence</b><br>
-  <img src="https://img.shields.io/badge/ML-AI-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="ML-AI" />
-  <img src="https://img.shields.io/badge/Progress-████████▌-----90%25-brightgreen?style=for-the-badge" alt="ML Progress" />
+  🔥 <a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa" target="_blank" style="text-decoration:none; color:#ff79c6;"><b>Storyblok MCP Server:</b> Let AI Agents Manage Your Content 🤖</a>
+  <img src="https://img.shields.io/badge/New-Blog-ff79c6?style=for-the-badge&logo=dev.to&logoColor=white" alt="New Blog" />
 </p>
 
 <p align="left">
-  ⚛️ <b>Advanced Frontend Architecture & State Management</b><br>
-  <img src="https://img.shields.io/badge/Frontend-React-85%25-yellow?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Progress-████████▍-----85%25-yellow?style=for-the-badge" alt="Frontend Progress" />
+  🔥 <a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin" target="_blank" style="text-decoration:none; color:#50fa7b;"><b>Pulstack:</b> Deploy your static site to S3 or GitHub in &lt;1 min 🙂</a>
+  <img src="https://img.shields.io/badge/New-Blog-50fa7b?style=for-the-badge&logo=dev.to&logoColor=white" alt="New Blog" />
 </p>
 
 <p align="left">
-  ☁️ <b>Cloud Computing & Scalable Deployments</b><br>
-  <img src="https://img.shields.io/badge/Cloud-AWS-80%25-blue?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud" />
-  <img src="https://img.shields.io/badge/Progress-███████▌-----80%25-blue?style=for-the-badge" alt="Cloud Progress" />
+  🔥 <a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5" target="_blank" style="text-decoration:none; color:#8be9fd;"><b>Qodo-Embed-1:</b> I Tried Out Qodo's New Embed Model 🤯</a>
+  <img src="https://img.shields.io/badge/New-Blog-8be9fd?style=for-the-badge&logo=dev.to&logoColor=white" alt="New Blog" />
 </p>
 
 ### Languages skills:
