@@ -45,6 +45,22 @@ _Digital Craftsman (Developer / Programmer)_
 <img align="right" src="./Skills1.gif" width="45%" />
 <br clear="both" />
 
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,django" /><br><br>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" /><br><br>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /><br><br>
+
+  <!-- Tools & Cloud -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,azure,docker" />
+</p>
+
 ### Languages skills:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
