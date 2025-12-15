@@ -20,9 +20,8 @@
 _Digital Craftsman (Developer / Programmer)_
 <br />
 
-I'm a passionate software developer specializing in web development and cloud computing.
-
----
+I am a Full Stack Developer and Machine Learning enthusiast with a passion for building innovative, scalable, and intelligent solutions.
+I thrive on tackling complex problems, creating seamless user experiences, and transforming ideas into real-world applications.
 
 ## 🛠️ Skills ⬇️⬇️⬇️
 
