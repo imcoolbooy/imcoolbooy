@@ -2,7 +2,7 @@ name: Daily README Update (SLST HTML)
 
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '30 18 * * *'  # Every day at 18:30 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Update Last Updated (Sri Lanka Time)
         run: |
+          # Calculate Sri Lanka time (UTC+5:30)
           DATE=$(date -u '+%Y-%m-%d %H:%M:%S' --date='5 hours 30 minutes')
-          sed -i "s#<span id=\"last-updated\">.*</span>#<span id=\"last-updated\">$DATE SLST</span>#" README.md
+          
+          # Replace <span id="last-updated">...</span> safely
+          perl -pi -e "s#<span id=\"last-updated\">.*?</span>#<span id=\"last-updated\">$DATE SLST</span>#g" README.md
+
       - name: Commit Changes
         run: |
           git config --global user.name "github-actions[bot]"
