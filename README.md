@@ -5,12 +5,6 @@
   Last Updated: <span id="last-updated">2025-12-16 00:00:00 SLST</span>
 </p>
 
-<h2>🔗 My GitHub Links</h2>
-<ul>
-  <li><a href="https://github.com/imcoolbooy" target="_blank" rel="noopener noreferrer">My GitHub Profile</a></li>
-  <li><a href="https://github.com/imcoolbooy/imcoolbooy/blob/main/.github/workflows/update-readme.yml" target="_blank" rel="noopener noreferrer">Workflow File</a></li>
-</ul>
-
 <!--Footer-->
 
 <p align="center">
