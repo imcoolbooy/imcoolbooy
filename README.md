@@ -1,5 +1,11 @@
 <!--Banner-->
 
+## 📊 GitHub Service Status
+
+[![GitHub Status](https://img.shields.io/website-up-down-green-red/https/github.com)](https://www.githubstatus.com)
+[![GitHub Status Page](https://img.shields.io/badge/status-githubstatus.com-blue)](https://www.githubstatus.com)
+[![GitHub API](https://img.shields.io/badge/API-live-success)](https://www.githubstatus.com)
+[![GitHub Actions](https://img.shields.io/badge/Actions-monitoring-success)](https://www.githubstatus.com)
 ![Coolbooy's Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
 
 <p align="center">
