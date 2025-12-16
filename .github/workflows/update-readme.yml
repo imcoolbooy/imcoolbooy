@@ -11,10 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update Last Updated (Sri Lanka Time)
+      - name: Load profile.info
         run: |
+          USERNAME=$(grep '^username' profile.info | cut -d '=' -f2 | xargs)
+          EMAIL=$(grep '^email' profile.info | cut -d '=' -f2 | xargs)
+          LAST_UPDATED_SPAN=$(grep '^last_updated_span' profile.info | cut -d '=' -f2 | xargs)
+          echo "Username: $USERNAME"
+          echo "Email: $EMAIL"
+          echo "Span ID: $LAST_UPDATED_SPAN"
+          
           DATE=$(date -u '+%Y-%m-%d %H:%M:%S' --date='5 hours 30 minutes')
-          perl -pi -e "s#<span id=\"last-updated\">.*?</span>#<span id=\"last-updated\">$DATE SLST</span>#g" README.md
+          
+          perl -pi -e "s#<span id=\"$LAST_UPDATED_SPAN\">.*?</span>#<span id=\"$LAST_UPDATED_SPAN\">$DATE SLST</span>#g" README.md
 
       - name: Commit Changes
         run: |
