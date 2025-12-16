@@ -408,7 +408,7 @@ _Digital Craftsman (Developer / Programmer)_
 
 <h2>📅 Last Updated 🖥️ 🇱🇰</h2>
 <p>
-  Last Updated: <span id="last-updated">2025-12-16 00:00:00 SLST</span>
+  Last Updated: <span id="last-updated">Loading...</span>
 </p>
 
 <p align="center">
