@@ -1,4 +1,4 @@
-<!--Banner-->
+<!--GitHub-->
 
 ## 📊 GitHub Service Status
 
@@ -13,6 +13,7 @@
 [![Security](https://img.shields.io/badge/Security-live-success)](https://www.githubstatus.com/components/security)
 [![Issues](https://img.shields.io/badge/Issues-live-success)](https://www.githubstatus.com/components/issues)
 
+<!--Repository-->
 ## ⭐ Repository Info
 
 [![Stars](https://img.shields.io/github/stars/imcoolbooy/imcoolbooy?style=for-the-badge&logo=github&color=yellow&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/stargazers)
@@ -20,6 +21,8 @@
 [![Issues](https://img.shields.io/github/issues/imcoolbooy/imcoolbooy?style=for-the-badge&logo=github&color=red&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/issues)
 [![License](https://img.shields.io/github/license/imcoolbooy/imcoolbooy?style=for-the-badge&color=green&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/imcoolbooy/imcoolbooy?style=for-the-badge&color=orange&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/commits/main)
+
+<!--Banner-->
 ![Coolbooy's Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
 
 <p align="center">
