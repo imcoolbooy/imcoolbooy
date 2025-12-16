@@ -1,7 +1,7 @@
 <!--Updated-->
 
-## 📅 Last Updated 🖥️ 🇱🇰
-Last Updated: 2025-12-16 00:00:00 SLST
+<h2>📅 Last Updated 🖥️ 🇱🇰</h2>
+<p>Last Updated: <span id="last-updated">2025-12-16 00:00:00 SLST</span></p>
 
 <!--Footer-->
 <p align="center">
