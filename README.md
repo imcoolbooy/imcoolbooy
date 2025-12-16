@@ -4,8 +4,23 @@
 
 [![GitHub Status](https://img.shields.io/website-up-down-green-red/https/github.com)](https://www.githubstatus.com)
 [![GitHub Status Page](https://img.shields.io/badge/status-githubstatus.com-blue)](https://www.githubstatus.com)
-[![GitHub API](https://img.shields.io/badge/API-live-success)](https://www.githubstatus.com)
-[![GitHub Actions](https://img.shields.io/badge/Actions-monitoring-success)](https://www.githubstatus.com)
+
+[![API](https://img.shields.io/badge/API-live-success)](https://www.githubstatus.com/components/api)
+[![Actions](https://img.shields.io/badge/Actions-monitoring-success)](https://www.githubstatus.com/components/actions)
+[![Packages](https://img.shields.io/badge/Packages-live-success)](https://www.githubstatus.com/components/packages)
+[![Pages](https://img.shields.io/badge/Pages-live-success)](https://www.githubstatus.com/components/pages)
+[![Copilot](https://img.shields.io/badge/Copilot-live-success)](https://www.githubstatus.com/components/copilot)
+[![Security](https://img.shields.io/badge/Security-live-success)](https://www.githubstatus.com/components/security)
+[![Issues](https://img.shields.io/badge/Issues-live-success)](https://www.githubstatus.com/components/issues)
+
+## ⭐ Repository Info
+
+[![Stars](https://img.shields.io/github/stars/imcoolbooy/imcoolbooy?style=for-the-badge&logo=github&color=yellow&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/stargazers)
+[![Forks](https://img.shields.io/github/forks/imcoolbooy/imcoolbooy?style=for-the-badge&logo=github&color=blue&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/network)
+[![Issues](https://img.shields.io/github/issues/imcoolbooy/imcoolbooy?style=for-the-badge&logo=github&color=red&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/issues)
+[![License](https://img.shields.io/github/license/imcoolbooy/imcoolbooy?style=for-the-badge&color=green&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/imcoolbooy/imcoolbooy?style=for-the-badge&color=orange&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/commits/main)
+
 ![Coolbooy's Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
 
 <p align="center">
