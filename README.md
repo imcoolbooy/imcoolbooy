@@ -20,7 +20,6 @@
 [![Issues](https://img.shields.io/github/issues/imcoolbooy/imcoolbooy?style=for-the-badge&logo=github&color=red&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/issues)
 [![License](https://img.shields.io/github/license/imcoolbooy/imcoolbooy?style=for-the-badge&color=green&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/imcoolbooy/imcoolbooy?style=for-the-badge&color=orange&labelColor=black)](https://github.com/imcoolbooy/imcoolbooy/commits/main)
-
 ![Coolbooy's Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
 
 <p align="center">
