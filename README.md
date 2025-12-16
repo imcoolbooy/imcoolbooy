@@ -403,7 +403,6 @@ _Digital Craftsman (Developer / Programmer)_
 
 • MIT License © 2025 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪
 
-
 <!--Updated-->
 
 <h2>📅 Last Updated 🖥️ 🇱🇰</h2>
