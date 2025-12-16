@@ -1,14 +1,3 @@
-<!--Updated-->
-
-<h2>📅 Last Updated 🖥️ 🇱🇰</h2>
-<p>
-  Last Updated: <span id="last-updated">2025-12-16 00:00:00 SLST</span>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-
 <!--GitHub-->
 
 ## 📊 GitHub Service Status
@@ -413,3 +402,15 @@ _Digital Craftsman (Developer / Programmer)_
 ### 📌️ License
 
 • MIT License © 2025 𓆩𝐈𝐌 𝐂𝐎𝐎𝐋 𝐁𝐎𝐎𝐘 𝓢𝓱𝓪𝓭𝓸𝔀 𝓚𝓲𝓷𝓰 𓆪
+
+
+<!--Updated-->
+
+<h2>📅 Last Updated 🖥️ 🇱🇰</h2>
+<p>
+  Last Updated: <span id="last-updated">2025-12-16 00:00:00 SLST</span>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
