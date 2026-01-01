@@ -1,6 +1,6 @@
 <!--GitHub-->
 
-## 📊 GitHub Service Status
+### 📊 GitHub Service Status
 
 [![GitHub Status](https://img.shields.io/website-up-down-green-red/https/github.com)](https://www.githubstatus.com)
 [![GitHub Status Page](https://img.shields.io/badge/status-githubstatus.com-blue)](https://www.githubstatus.com)
