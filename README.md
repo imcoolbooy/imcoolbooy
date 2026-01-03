@@ -179,12 +179,12 @@ _Digital Craftsman (Developer / Programmer)_
     <td width="50%" align="center">
       <h3><strong>𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</strong></h3>
       <a href="https://github.com/imcoolbooy">
-        <img src="https://github-readme-stats.vercel.app/api?username=imcoolbooy&count_private=true&show_icons=true&theme=nightowl&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imcoolbooy&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>𝔾𝕚𝕥𝕙𝕦𝕓 ℝ𝕖𝕡𝕠𝕤</strong></h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcoolbooy&layout=compact&theme=nightowl" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=imcoolbooy&show_icons=true&theme=nightowl" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
